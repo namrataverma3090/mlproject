@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.1
+Summary: A machine learning project for data analysis and modeling.
+Author: Namrata
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+Requires-Dist: pydantic
+Requires-Dist: python-multipart
+Requires-Dist: python-dotenv
+Requires-Dist: requests
+Requires-Dist: joblib
